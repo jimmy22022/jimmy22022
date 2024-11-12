@@ -1,19 +1,15 @@
 ## Hi there! 👋
 
-- Test123
-- Test234
-- Test567
-<!--
-**jimmy22022/jimmy22022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 My name is Jimmy.
+- 🏫 I'm a graduate in Computer Security from York University!
+- 🪲 I'm an aspiring cybersecurity specialist!  My interests are in network security, threat hunting and analysis, and ethical hacking!
+- ⚡ In my free time I enjoy playing Table Tennis, Biking, Reading, Cooking and Baking, spending time with family and friends, and learning more about IT and security!
+- 📫 How you can reach me: jimmy-gong@live.com, LinkedIn currently under construction!
 
-Here are some ideas to get you started:
+## ✅ List of Professional IT Certifications
+- CompTIA Network+
+- CompTIA Security+
+- Currently preparing for CompTIA Cybersecurity Analyst+ (CySA+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✅ List of Self-Learning Activities
+- Currently going through "Learn Python & Ethical Hacking From Scratch" by Zaid Sabih
