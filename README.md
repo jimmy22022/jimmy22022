@@ -12,4 +12,4 @@
 - Currently preparing for CompTIA Cybersecurity Analyst+ (CySA+)
 
 ## ✅ List of Self-Learning Activities
-- Currently going through "Learn Python & Ethical Hacking From Scratch" by Zaid Sabih
+- Currently going through "Learn Python & Ethical Hacking From Scratch" by Zaid Sabih on Udemy
